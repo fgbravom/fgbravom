@@ -1,5 +1,5 @@
   
-# Pipealb0 🏁
+# Pipecco 🏁
 Hi, I'm pipe. I'm coding some random stuff.
 <!--
 **fgbravom/fgbravom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
