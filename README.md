@@ -1,6 +1,6 @@
   
-# pipecco 🏁
-Hola, soy pipe. Desarrollo cosas random.
+# Pipe 🏁
+Hola, este es mi espacio personal de desarrollo de proyectos web.
 <!--
 **fgbravom/fgbravom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
